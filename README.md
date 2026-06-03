@@ -1,7 +1,9 @@
 <h1 align="center">E aí! Eu sou o João Victor👨‍💻</h1>
 
 <p align="center">
-  Desenvolvedor Front-End formado em Ciência da Computação e apaixonado por criar aplicações modernas, funcionais e intuitivas para a web.
+  <b> Desenvolvedor Front-End formado em Ciência da Computação </b>
+  Apaixonado por criar aplicações modernas, funcionais e intuitivas para a web. 
+  
 </p>
 
 ---
