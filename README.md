@@ -2,7 +2,8 @@
 
 <p align="center">
   <b> Desenvolvedor Front-End formado em Ciência da Computação </b>
-  
+</p>
+<p align="center">
   Apaixonado por criar aplicações modernas, funcionais e intuitivas para a web. 
 </p>
 
