@@ -4,7 +4,6 @@
   <b> Desenvolvedor Front-End formado em Ciência da Computação </b>
   
   Apaixonado por criar aplicações modernas, funcionais e intuitivas para a web. 
-  
 </p>
 
 ---
