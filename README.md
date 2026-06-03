@@ -1,56 +1,57 @@
 <h1 align="center">E aí! Eu sou o João Victor👨‍💻</h1>
 
 <p align="center">
-  Desenvolvedor front-end em formação constante.<br>
-  Apaixonado por criar experiências bonitas, funcionais e inteligentes na web.
+  Desenvolvedor Front-End formado em Ciência da Computação e apaixonado por criar aplicações modernas, funcionais e intuitivas para a web.
 </p>
 
 ---
 
-### 🎓 Sobre mim
+### 🚀 Sobre mim
 
-Sou graduado em *Ciência da Computação*, atualmente focado em desenvolvimento *Front-End*, com planos de migrar futuramente para o *Full Stack*.  
+Sou formado em *Ciência da Computação* e tenho experiência prática no desenvolvimento de aplicações web utilizando *React*, *JavaScript*, *Tailwind CSS*, *Node.js* e *MongoDB*.
 
-Estou construindo meu portfólio com base em projetos práticos e atualizados, usando ferramentas modernas como *JavaScript ES6+, React, Tailwind CSS e Figma*.
+Gosto de transformar ideias em projetos reais, buscando sempre criar interfaces responsivas, boa experiência do usuário e código organizado.
 
 ---
 
 ### 📚 Estudando atualmente
 
-- *JavaScript moderno (ES6+)*
-- *React com Hooks, Context API, Firebase e Router*
-- *HTML5, CSS3 e Tailwind CSS*
-- *Git e GitHub para versionamento*
-- *Figma para Desenvolvedores*
+- *Next.js*
+- *TypeScript*
+- Boas práticas de desenvolvimento *Front-End*
+- Deploy e publicação de aplicações web
+- Arquitetura de aplicações *React*
 
 ---
 
 ### 💡 Projetos em destaque
 
-✅ Calculadora de IMC com JS  
-✅ Layouts responsivos com Tailwind CSS  
-✅ Mini portfólio pessoal (em andamento)  
-✅ Aplicações React com autenticação e Firestore (em breve!)
+✅ ReactGram – Clone do Instagram com autenticação, posts, curtidas, comentários e busca de usuários
 
-> Acesse os repositórios para ver o código e acompanhar meu progresso real, dia após dia.
+✅ MiniBlog – Plataforma de publicação de posts com autenticação e operações CRUD
 
----
+✅ Palavra Secreta – Jogo desenvolvido em React com foco em componentização e gerenciamento de estado
 
-### 🛠 Habilidades técnicas
-
-- *Linguagens:* JavaScript, HTML, CSS
-- *Frameworks e bibliotecas:* React (Hooks, Router), Tailwind CSS
-- *Ferramentas:* Git, GitHub, Figma, VSCode
-- *Outros:* Firebase (em estudo), Node.js básico, lógica de programação
+✅ Campo Minado – Jogo desenvolvido em JavaScript puro com lógica, eventos e manipulação do DOM
 
 ---
 
-### 💼 Em busca de oportunidade
+### 🛠 Tecnologias
 
-Estou buscando minha primeira oportunidade como *Desenvolvedor Front-End Júnior*.  
-Tenho disponibilidade imediata e muita vontade de aprender, evoluir e contribuir com projetos reais.  
+*Frontend*:
+React • JavaScript • HTML5 • CSS3 • Tailwind CSS
 
-Se quiser bater um papo técnico ou conhecer melhor meu código, bora conversar!
+*Backend*:
+Node.js • MongoDB • APIs REST • JWT
+
+Ferramentas:
+Git • GitHub • Figma • VS Code
+
+---
+
+### 🎯 Objetivo
+
+Estou em busca da minha primeira oportunidade como Desenvolvedor Front-End, onde eu possa aplicar meus conhecimentos, continuar evoluindo tecnicamente e contribuir com projetos reais.
 
 ---
 
@@ -58,11 +59,10 @@ Se quiser bater um papo técnico ou conhecer melhor meu código, bora conversar!
 
 📧 joaovictormoura992@gmail.com 
 🔗 https://www.linkedin.com/in/joaovictormouraa/
-📁 Em breve: Portfólio online!
 
 ---
 
-Obrigado por visitar meu perfil e acompanhar minha jornada! 🚀
+📌 Fique à vontade para explorar meus repositórios e acompanhar minha evolução como desenvolvedor!
 
 <!--
 <div align="center">
