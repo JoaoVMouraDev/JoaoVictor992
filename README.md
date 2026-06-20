@@ -1,7 +1,7 @@
 <h1 align="center">E aí! Eu sou o João Victor👨‍💻</h1>
 
 <p align="center">
-  <b> Desenvolvedor Front-End formado em Ciência da Computação </b>
+  <b> Desenvolvedor Full Stack formado em Ciência da Computação </b>
 </p>
 <p align="center">
   Apaixonado por criar aplicações modernas, funcionais e intuitivas para a web. 
@@ -11,7 +11,7 @@
 
 ### 🚀 Sobre mim
 
-Sou formado em *Ciência da Computação* e tenho experiência prática no desenvolvimento de aplicações web utilizando *React*, *JavaScript*, *Tailwind CSS*, *Node.js* e *MongoDB*.
+Sou formado em *Ciência da Computação* e tenho experiência prática no desenvolvimento de aplicações web utilizando *React*, *TypeScript*, *Node.js*, *PostgreSQL*, *Tailwind CSS* e *Vercel*.
 
 Gosto de transformar ideias em projetos reais, buscando sempre criar interfaces responsivas, boa experiência do usuário e código organizado.
 
@@ -19,8 +19,6 @@ Gosto de transformar ideias em projetos reais, buscando sempre criar interfaces 
 
 ### 📚 Estudando atualmente
 
-- *Next.js*
-- *TypeScript*
 - Boas práticas de desenvolvimento *Front-End*
 - Deploy e publicação de aplicações web
 - Arquitetura de aplicações *React*
@@ -29,13 +27,15 @@ Gosto de transformar ideias em projetos reais, buscando sempre criar interfaces 
 
 ### 💡 Projetos em destaque
 
-✅ ReactGram – Clone do Instagram com autenticação, posts, curtidas, comentários e busca de usuários
+🚀 ReactGramm
+Plataforma social full stack publicada em produção.
+React • TypeScript • Node.js • PostgreSQL • Vercel
 
-✅ MiniBlog – Plataforma de publicação de posts com autenticação e operações CRUD
+🎮 Campo Minado
+Jogo web com lógica completa, ranking e gerenciamento de estado.
 
-✅ Palavra Secreta – Jogo desenvolvido em React com foco em componentização e gerenciamento de estado
-
-✅ Campo Minado – Jogo desenvolvido em JavaScript puro com lógica, eventos e manipulação do DOM
+💻 Em desenvolvimento
+Chat em tempo real para o ReactGramm.
 
 ---
 
@@ -45,7 +45,7 @@ Gosto de transformar ideias em projetos reais, buscando sempre criar interfaces 
 React • JavaScript • HTML5 • CSS3 • Tailwind CSS
 
 *Backend*:
-Node.js • MongoDB • APIs REST • JWT
+Node.js • PostgreSQL • APIs REST • JWT
 
 Ferramentas:
 Git • GitHub • Figma • VS Code
