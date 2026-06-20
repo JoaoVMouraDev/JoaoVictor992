@@ -28,33 +28,26 @@ Gosto de transformar ideias em projetos reais, buscando sempre criar interfaces 
 ### 💡 Projetos em destaque
 
 🚀 ReactGramm
-
-Plataforma social full stack publicada em produção.
-
-React • TypeScript • Node.js • PostgreSQL • Vercel
+- Plataforma social full stack publicada em produção.
+- React • TypeScript • Node.js • PostgreSQL • Vercel
 
 🎮 Campo Minado
-
-Jogo web com lógica completa, ranking e gerenciamento de estado.
+- Jogo web com lógica completa, ranking e gerenciamento de estado.
 
 💻 Em desenvolvimento
-
-Chat em tempo real para o ReactGramm.
+- Chat em tempo real para o ReactGramm.
 
 ---
 
 ### 🛠 Tecnologias
 
 *Frontend*:
-
 React • JavaScript • HTML5 • CSS3 • Tailwind CSS
 
 *Backend*:
-
 Node.js • PostgreSQL • APIs REST • JWT
 
 Ferramentas:
-
 Git • GitHub • Figma • VS Code
 
 ---
@@ -69,7 +62,7 @@ Estou em busca da minha primeira oportunidade como Desenvolvedor Front-End, onde
 
 📧 joaovictormoura992@gmail.com 
 
-🔗 linkedin.com/in/joaovictormouraa/
+🔗 [linkedin.com/in/joaovictormouraa/](https://www.linkedin.com/in/joaovictormouraa/)
 
 ---
 
